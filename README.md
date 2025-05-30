@@ -32,7 +32,8 @@ Objective: Visualized and analyzed Adventure Works sales data to gain insights i
 Key Contributions: Developed interactive dashboards in Power BI, showcasing total revenue, orders by category, and revenue trends. Utilized Power BI to present key performance indicators (KPIs) such as total revenue, total orders, and return rates. 
 
 Year: 2025 
-🛍️ Blinkit Sales Performance Analysis
+
+## 🛍️ Blinkit Sales Performance Analysis
 Objective: Transformed raw sales data into interactive dashboards for a clear overview of Blinkit's sales. 
 Key Contributions: Leveraged Power BI to visualize total sales, customer segmentation, and product performance. Designed and implemented various Power BI visualizations (trend charts, pie charts, tables) to communicate key insights like monthly sales trends, revenue distribution, and top-selling products. 
 
