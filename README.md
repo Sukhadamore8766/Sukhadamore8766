@@ -70,7 +70,9 @@ Year: 2023
 
 ## 🗣️ Languages
 Marathi 
-English 
+
+English
+
 Hindi 
 
 ## 📧 Get in Touch!
