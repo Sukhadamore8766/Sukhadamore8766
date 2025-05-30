@@ -21,7 +21,7 @@ Explore some of my recent data-driven projects:
 Objective: Analyzed a large Airbnb dataset to understand the impact of regulations on market dynamics. 
 Key Contributions: Identified trends in short-term rental prices and listing growth across 10 cities. Developed insights and recommendations on how regulations affect business, customer experience, and strategies for Airbnb to mitigate adverse impacts and manage supply. 
 Year: 2025 
-🛒 Customer Shopping Trends Analysis
+## 🛒 Customer Shopping Trends Analysis
 Objective: Analyzed customer shopping data to identify key purchasing patterns and demographics. 
 Key Contributions: Developed Python scripts (Pandas, NumPy) for data cleaning, manipulation, and exploratory data analysis, leading to actionable insights. 
 
@@ -49,9 +49,11 @@ Year: 2024
 Bachelor of Engineering in Computer Engineering 
 Pune University - 8.42 CGPA 
 2024 
+
 Higher Secondary Certificate 
 S.B.E.S College of Science - 60% 
 2020 
+
 Secondary School Certificate 
 Sharda Mandir Girls High School - 84.60% 
 2018 
