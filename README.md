@@ -60,9 +60,14 @@ Sharda Mandir Girls High School - 84.60%
 
 ## 🏅 Certifications & Internships
 Google Data Analytics Professional Certificate (Coursera) 
+Year: 2024
+
 Accenture North America Data Analytics and Visualization Job Simulation (Virtual Internship) 
 Gained practical experience in Project Understanding, Data Cleaning & Modeling, and Data Visualization & Storytelling. 
+Year: 2024
+
 SQL and Relational Databases 101 (IBM on Cognitive Class) 
+
 Tech Mahajan, Pune - Live Shopping System (Project)
 Designed and developed models and web pages using front-end technologies. 
 Utilized Java with frameworks for backend development for a real-time shopping system. 
